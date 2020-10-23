@@ -1,0 +1,44 @@
+For Beginners
+What is Jenkins and why do we use it? (if you mention CI/CD in your answer, it can divert to what is CI & CD in Devops)
+What do you understand by  CI or continuous integration?
+How did Jenkins come into existence? (They want you to talk about Hudson project, and Jenkins history)
+What are the advantages of using Jenkins?
+What are the prerequisites to use Jenkins?What are the software prerequisites that must be met before installing Jenkins ?
+Name some common plugins you have used for Jenkins in your project.
+What other continuous integration tools do you know or have worked with? How are they different from Jenkins? (This is same as Jenkins vs Bamboo/TeamCity/CircleCI/Travis CI/Buildkite  etc)
+In a typical Devops lifecycle phases or Devops stages, where does Jenkins fit it? At what stage in Devops is Jenkins involved.
+Can you manually start Jenkins? If, yes then how? (Share the commands to start Jenkins manually. Start Jenkins: jenkins.exe start, Stop Jenkins: jenkins.exe stop,Restart Jenkins: jenkins.exe restart)
+How can you trigger Jenkins from CLI(command line)
+What are the two components that you can integrate Jenkins with? (You can integrate Jenkins with: Version Control systems like Git, SVN and also Build tools like Apache Maven)
+What is a Jenkins Pipeline?
+What are the steps involved in a Jenkins pipeline? (Share about the three steps: Build, test,deploy)
+What is a Jenkins job?
+What is default port in Jenkins? (8080)
+What is flow control in Jenkins?
+What are the types of Pipelines in Jenkins? (Share the two types: Declarative & Scripted)
+What is Groovy?
+What are tasks performed by Jenkins Master?
+Where does all the Jenkins configuration & logs get stored? In other words, What is the use of JENKINS_HOME directory?
+Can you move or copy Jenkins jobs from one server to another? How
+Explain how you created a backup and copy files in Jenkins?
+Intermediate or Advanced Questions
+Jenkins Advanced Interview Questions (More focus on general issues and also with Jenkins troubleshooting)
+What You Do When You See A Broken Build For Your Project In Jenkins?
+How Can You Clone A Git Repository through Jenkins?
+How will you secure Jenkins?
+What do you mean by the terms Agent, post-section, Jenkinsfile?
+Which is the native scripting language used in Jenkins?
+Have you heard of Kubernetes? Have you used Kubernetes? Is it possible to integrate Jenkins with Kubernetes?
+What is a backup plugin? Why is it used?
+What are the various ways to configure Jenkins node agent to communicate with Jenkins master?
+How does Jenkins authenticate users? (Three main ways: 1.The default way is to store user data and credentials in an internal database.2. Configure Jenkins to use the authentication mechanism defined by the application server on which it is deployed.3. Configure Jenkins to authenticate against LDAP server)
+Is it possible to turn off Jenkins Security if the administrative users have locked out of the admin console? Explain how.
+How can you create a Multibranch Pipeline in Jenkins?
+Explain the difference between Continuous Integration, Continuous Delivery, and Continuous Deployment?
+Do you know about Blue ocean in Jenkins. (Blue Ocean is GUI for Jenkins ,created to make it easier for teams to use Jenkins. When using blue ocean you can visualize the jobs getting executed and personalize it)
+What are the best ways to make sure that your Jenkins database is secure?
+How to trigger a build remotely from Jenkins? How to configure Git post commit hook?
+What is matrix-based security?
+What is a Jenkins Workspace?Can we provide a custom workspace in Jenkins?
+Name the Jenkins environment variables that you have used in a shell script or batch file.
+ 
